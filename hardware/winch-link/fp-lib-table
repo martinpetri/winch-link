@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MCP73871T-2CCI_ML")(type "KiCad")(uri "${KIPRJMOD}/lib/MCP73871T-2CCI_ML")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B")(options "")(descr ""))
+  (lib (name "MAX6816EUS_T")(type "KiCad")(uri "${KIPRJMOD}/lib/MAX6816EUS_T")(options "")(descr ""))
+  (lib (name "Lora")(type "KiCad")(uri "${KIPRJMOD}/lib/Lora/Lora.pretty")(options "")(descr ""))
+  (lib (name "display_spi")(type "KiCad")(uri "${KIPRJMOD}/lib/display_spi/display_spi.pretty")(options "")(descr ""))
+  (lib (name "TPS63051RMWR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS63051RMWR")(options "")(descr ""))
+  (lib (name "ME6211")(type "KiCad")(uri "${KIPRJMOD}/lib/ME6211.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCP73871T-2CCI_ML")(type "Legacy")(uri "${KIPRJMOD}/lib/MCP73871T-2CCI_ML/MCP73871T-2CCI_ML.lib")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B/TS-1187A-B-A-B.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX6816EUS_T")(type "KiCad")(uri "${KIPRJMOD}/lib/MAX6816EUS_T/MAX6816EUS_T.kicad_sym")(options "")(descr ""))
+  (lib (name "Lora")(type "KiCad")(uri "${KIPRJMOD}/lib/Lora/Lora.kicad_sym")(options "")(descr ""))
+  (lib (name "display_spi")(type "KiCad")(uri "${KIPRJMOD}/lib/display_spi/display_spi.kicad_sym")(options "")(descr ""))
+  (lib (name "JLCPCB")(type "KiCad")(uri "${KIPRJMOD}/lib/JLCPCB.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS63051RMWR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS63051RMWR/TPS63051RMWR.kicad_sym")(options "")(descr ""))
+  (lib (name "ME6211")(type "KiCad")(uri "${KIPRJMOD}/lib/ME6211.kicad_sym")(options "")(descr ""))
+)
