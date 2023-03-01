@@ -3205,7 +3205,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 160.02 55.88 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 13e49052-eb56-4bf9-8aac-acdaf6cfc67d)
     (property "Reference" "J2" (at 160.655 52.07 0)
       (effects (font (size 1.27 1.27)))
@@ -3394,7 +3394,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Pin") (at 328.295 236.855 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2be808d2-be05-4243-81ac-909847fe5126)
     (property "Reference" "J4" (at 328.93 233.045 0)
       (effects (font (size 1.27 1.27)))
@@ -3560,7 +3560,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 214.63 57.15 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 48e9ff82-76ca-4b5a-889a-969e8d1f4f0f)
     (property "Reference" "J3" (at 215.265 53.34 0)
       (effects (font (size 1.27 1.27)))
@@ -3715,7 +3715,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x01_Pin") (at 328.295 243.205 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c2ec656-5c80-4ee3-bb8f-26055255d3d5)
     (property "Reference" "J6" (at 328.93 239.395 0)
       (effects (font (size 1.27 1.27)))
@@ -4222,7 +4222,7 @@
   )
 
   (symbol (lib_id "Lora:pcb_antenna") (at 235.585 142.24 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 96f1e312-f421-4308-bc04-dab736ddf7cd)
     (property "Reference" "PCB_Antenna1" (at 243.205 142.875 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -4591,7 +4591,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x08_Pin") (at 320.04 55.88 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid d035651e-4505-4867-8750-e25bdb54d7d4)
     (property "Reference" "J5" (at 322.58 44.45 0)
       (effects (font (size 1.27 1.27)))
