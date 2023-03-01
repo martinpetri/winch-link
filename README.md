@@ -2,7 +2,7 @@
 
 ![images/front.png](images/front.png)
 
-"winch link" is a new project and intended to facilitate communication when launching a paraglider with a winch, as the usual communication via radio often causes problems.
+This is a new project and intended to facilitate communication when launching a paraglider with a winch, as the usual communication via radio often causes problems.
 
 This requires one device for the launch leader and one for the winch.
 "winch link" is to transmit the different states like "pilot ready to launch", "pilot hooked in", "tighten rope" etc. to the winch by pressing a button. The winch operator can set his device to confirm automatically or by pressing a button.
