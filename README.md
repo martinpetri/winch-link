@@ -10,7 +10,7 @@ This requires one device for the launch leader and one for the winch.
 Currently the device is under development (See [hardware/winch-link](hardware/winch-link)). The circuit board is drawn and the first prototypes will be ordered in the next weeks. The device will be equipped with an e-paper display so that it can be read in direct sunlight. 
 
 
-###MIT License
+## MIT License
 
 Copyright (c) [2023] [Martin Petri]
 
